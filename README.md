@@ -3,10 +3,10 @@
 
 <h3> 📝 &nbsp;About Me </h3>
 
-Currently living in Brazil, I'am 19 years old boy and I have been studying about programming languages (C# specifically) since I was 12-13 years old. I started with small projects in Windows Forms, and get into the gaming area through Habbo (private servers development) some time later. Soon after (2017/2018) I found VRChat where started to go deeper on Unity Projects. In 2021 I started my first public project, <b>Av3Creator</b>, where it was later public released (on my Gumroad page) in January 2022.
+I'm a 19 year old male currently living in Brazil. I've been studying many diffrent programing languages, mainly C#. When I was 12 I did small projects in windows forms and got interested in C#, soon time after, I entered the gaming world with a private server of Habbo game. A few years latter in 2017 I got interested in a new game called VRChat which I could go deeper into Unity projects. After a few years of small unity projects I created my first public product, called Av3creator, which is purchasable in my Gumroad page.
 
 
-<h3> :rocket: &nbsp;Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
 **Favorite Languages**
 
