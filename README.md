@@ -12,6 +12,7 @@ I'm a 19 year old male currently living in Brazil. I've been studying many diffr
 
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=Csharp&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
 
 **Known Languages/Services**
 
@@ -20,7 +21,9 @@ I'm a 19 year old male currently living in Brazil. I've been studying many diffr
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+    
 **Still Learning/Interested**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
