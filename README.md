@@ -3,8 +3,12 @@
 
 <h3>📝&nbsp;About Me</h3>
 
-I'm a 19 year old male currently living in Brazil. I've been studying many diffrent programing languages, mainly C#. When I was 12 I did small projects in windows forms and got interested in C#, soon time after, I entered the gaming world with a private server of Habbo game. A few years latter in 2017 I got interested in a new game called VRChat which I could go deeper into Unity projects. After a few years of small unity projects I created my first public product, called Av3creator, which is purchasable in my Gumroad page.
+I'm a 19 year old male currently living in Brazil. I've been studying many diffrent programing languages, mainly C#. When I was 12 I did small projects in windows forms and got interested in C#, soon time after, I entered the gaming world with a private server of Habbo. A few years later in 2017 I got interested in a new game called VRChat which I could go deeper into Unity projects. After a few years of small unity projects I created my first public product, called Av3creator, which is purchasable in my Gumroad page.
 
+<h3>💻 My Projects</h3>
+
+<b>Gumroad Projects:</b> [Av3Creator](https://gum.co/Av3Creator) | [Basic Dynamics](https://gum.co/BasicDynamics)</br>
+<b>Open Source Projects:</b> [Discord Mute VRChat MOD](https://github.com/Rafacasari/DiscordMute) | [Playspace Mover VRChat MOD](https://github.com/Rafacasari/Playspace-Mover)
 
 <h3>:rocket:&nbsp;My Skills </h3>
 
