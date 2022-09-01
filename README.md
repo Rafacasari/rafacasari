@@ -8,7 +8,7 @@ I'm a 19 year old male currently living in Brazil. I've been studying many diffr
 <h3>💻 My Projects</h3>
 
 <b>Gumroad Projects:</b> [Av3Creator](https://gum.co/Av3Creator) | [Basic Dynamics](https://gum.co/BasicDynamics)</br>
-<b>Open Source Projects:</b> [Discord Mute VRChat MOD](https://github.com/Rafacasari/DiscordMute) | [Playspace Mover VRChat MOD](https://github.com/Rafacasari/Playspace-Mover)
+<b>GitHub Projects:</b> [Discord Mute](https://github.com/Rafacasari/DiscordMute) | [Playspace Mover](https://github.com/Rafacasari/Playspace-Mover)
 
 <h3>:rocket:&nbsp;My Skills </h3>
 
