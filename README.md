@@ -17,6 +17,7 @@ I'm a 20 year old male currently living in Brazil. I've been studying many diffr
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=Csharp&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=git)
 
 **Known Languages/Services**
 
