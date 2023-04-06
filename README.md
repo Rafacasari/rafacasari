@@ -1,9 +1,13 @@
 
 ![](https://komarev.com/ghpvc/?username=rafacasari&color=006bed)
 
-<h3>📝&nbsp;About Me</h3>
+<h3>📝&nbsp;About Me 🇺🇸</h3>
 
-I'm a 20 year old male currently living in Brazil. I've been studying many diffrent programing languages, mainly C#. When I was 12 I did small projects in windows forms and got interested in C#, soon time after, I entered the gaming world with a private server of Habbo. A few years later in 2017 I got interested in a new game called VRChat which I could go deeper into Unity projects. After a few years of small unity projects I created my first public product, called Av3creator, which is purchasable in my Gumroad page.
+I'm a 20 year old male currently living in Brazil. I've been "studying" many diffrent programing languages, mainly C#. When I was ~10-11 I did small projects in windows forms and got interested in C#, soon time after, I entered the gaming world with a private server of Habbo. A few years later in 2017 I got interested in a new game called VRChat which I could go deeper into Unity projects. After a few years of small unity projects I created my first public product, called Av3creator, which is purchasable in my Gumroad page.
+
+<h3>📝&nbsp;Sobre Mim 🇧🇷</h3>
+
+E aí, beleza? Meu nome é Rafa, tenho 20 anos e sou um apaixonado por programação, venho estudando diversas linguagens de programação ao decorrer do tempo, mas a minha favorita e queridinha é o C#. Comecei a ter interesse no universo de programação desde pequeno, quando eu tinha em torno de 10 anos eu comecei a me perguntar como as coisas eram feitas e comecei a pesquisar sobre o assunto, como toda criança sonhadora, assuntos dos mais diversos como: "Como criar meu próprio jogo" ou "Como criar meu próprio aplicativo" e "Como criar meu próprio site". Logo então conheci o HTML, CSS e também o VB.net (e mudando para o C# anos depois); Já tive muitos pequenos projetos, principalmente não remunerados, que foi o caso de minhas várias tentativas de emular um servidor de Habbo (jogo virtual). Acabei criando um servidor de sucesso, que eu atuava como programador, mas ao decorrer do tempo eu larguei o Habbo e comecei a jogar um jogo chamado VRChat, que nele criei os projetos mencionados logo abaixo.
 
 <h3>💻 My Projects</h3>
 
@@ -12,7 +16,7 @@ I'm a 20 year old male currently living in Brazil. I've been studying many diffr
 
 <h3>:rocket:&nbsp;My Skills </h3>
 
-**Favorite Languages**
+**❤ Favorite Languages**
 
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=Csharp&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -30,12 +34,12 @@ I'm a 20 year old male currently living in Brazil. I've been studying many diffr
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
     
-**Still Learning/Interested**
+**Still Learning | Interested**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
 
-**Code Editors**
+**Code Editors | IDEs**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
