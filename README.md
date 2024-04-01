@@ -45,10 +45,3 @@
 <a href="https://github.com/Rafacasari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafacasari&theme=dark&show_icons=true" />
 </a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;My Links </h3> 
-
-[![Rafacasari](https://img.shields.io/github/followers/rafacasari?label=follow&style=social)](https://github.com/Rafacasari)<br/>
-[![Rafacasari](https://img.shields.io/twitter/follow/rafacasari?style=social)](https://twitter.com/rafacasari)
