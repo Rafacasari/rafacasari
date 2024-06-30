@@ -18,6 +18,7 @@
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
   ![Luau](https://img.shields.io/badge/-Luau%20(Roblox)-333333?style=flat&logo=Roblox)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 
 **Known Languages/Services**
 
