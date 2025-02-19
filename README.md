@@ -3,42 +3,46 @@
 
 <h3>📝&nbsp;About Me 🇺🇸</h3>
 
-🇧🇷 I'm a 22 year old and I create things to Internet. I've been "studying" many diffrent programing languages, mainly C#. When I was ~10-11 I did small projects in windows forms and got interested in C#, soon time after, I entered the gaming world with a private server of Habbo. A few years later in 2017 I got interested in a new game called VRChat which I could go deeper into Unity projects. After a few years of small unity projects I created my first public product, called Av3creator, which is purchasable in my Gumroad page.
+Hello! I'm Rafa, 22 years old and I like to create things to the Internet.\
+I've always loved coding, since I was 10 with Windows Forms (Visual Basic) and C#, since then I made a bunch of random projects related to social games like Habbo, Transformice and Club Penguin; Later in 2017 I meet VRChat which I could go deeper into Unity projects with World Creation and Modding. After a few years of small unity projects I created my first public product, **Av3creator**, a tool that is designed to make the life easier for VRChat Avatar Creators. It is available on my [Gumroad page](https://rafacasari.gumroad.com/).
 
 <h3>💻 My Projects</h3>
 
-<b>GitHub Projects:</b> [Discord Mute](https://github.com/Rafacasari/DiscordMute) | [Playspace Mover](https://github.com/Rafacasari/Playspace-Mover)
+- [Discord Mute](https://github.com/Rafacasari/DiscordMute) - **[Archived]** A VRChat mod to easily mute yourself in Discord while in-VR.
+- [Playspace Mover](https://github.com/Rafacasari/Playspace-Mover) - **[Archived]** A VRChat mod to simulate OVR's Playspace Mover.
+- [Heaven Tool](https://github.com/rafacasari/heaventoolacnh) - A tool that help modding in Animal Crossing: New Horizons in multiple ways.
+- [DesktopMate NoSteam](https://github.com/Rafacasari/DesktopMate-NoSteam) - **[Archived]** A DesktopMate mod that disables Steam requirement for the game to run.
 
-<h3>:rocket:&nbsp;My Skills </h3>
+<h3>:rocket:&nbsp;My Skills and Interests</h3>
 
-**❤ Favorite Languages**
+**These are my favorite languages**
 
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=Csharp&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-  ![Luau](https://img.shields.io/badge/-Luau%20(Roblox)-333333?style=flat&logo=Roblox)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+  ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+  ![Luau](https://img.shields.io/badge/-Luau%20(Roblox)-d92b2b?style=flat&logo=Roblox)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 
-**Known Languages/Services**
+**These are things that I some knowledge or have used in the past**
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
     
-**Still Learning | Interested**
+**And these are things that I really want to learn someday...**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-**Code Editors | IDEs**
+**I like to code using**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+  ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 
 
 <br/>
