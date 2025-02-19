@@ -8,6 +8,7 @@ I've always loved coding, since I was 10 with Windows Forms (Visual Basic) and C
 
 <h3>💻 My Projects</h3>
 
+- [Cobbledex](https://www.curseforge.com/minecraft/mc-mods/cobbledex) - A Minecraft mod that adds a working Pokédex to **[Cobblemon](https://modrinth.com/mod/cobblemon)**!
 - [Discord Mute](https://github.com/Rafacasari/DiscordMute) - **[Archived]** A VRChat mod to easily mute yourself in Discord while in-VR.
 - [Playspace Mover](https://github.com/Rafacasari/Playspace-Mover) - **[Archived]** A VRChat mod to simulate OVR's Playspace Mover.
 - [Heaven Tool](https://github.com/rafacasari/heaventoolacnh) - A tool that help modding in Animal Crossing: New Horizons in multiple ways.
