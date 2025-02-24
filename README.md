@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rafacasari&color=006bed)
 
-<h3>📝&nbsp;About Me 🇺🇸</h3>
+<h3>📝&nbsp;About Me</h3>
 
 Hello! I'm Rafa, 22 years old and I like to create things to the Internet.\
 I've always loved coding, since I was 10 with Windows Forms (Visual Basic) and C#, since then I made a bunch of random projects related to social games like Habbo, Transformice and Club Penguin; Later in 2017 I meet VRChat which I could go deeper into Unity projects with World Creation and Modding. After a few years of small unity projects I created my first public product, **Av3creator**, a tool that is designed to make the life easier for VRChat Avatar Creators. It is available on my [Gumroad page](https://rafacasari.gumroad.com/).
